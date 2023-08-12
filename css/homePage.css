@@ -109,6 +109,15 @@ a{
     font-size: 250%;
 }
 
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 1.6rem;
+
+}
+
 
 
 
@@ -129,6 +138,16 @@ a{
     font-size: 250%;
 }
 
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 1.6rem;
+
+}
+
+
 
 
 
@@ -148,10 +167,18 @@ a{
 .titele{
     font-size: 250%;
 }
+h2{
+
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-size: 1.6rem;
+
+}
 }
 
 
-@media  (max-width: 360px ) {
+@media  (max-width: 600px ) {
     .coteret{
         font-size: 1.5rem;
         top: 30%;
@@ -178,3 +205,33 @@ h2{
 
 }
 
+
+
+
+
+@media  (max-width:370px ) {
+    .coteret{
+        font-size: 1.5rem;
+        top: 30%;
+        left: 15%;
+}
+.TalAndI{
+    position: absolute;
+    height: 35%; width:  81%; 
+    right: 8%;
+    bottom: 6%;
+}
+a{
+    font-size: 20px;
+}
+h2{
+    position: absolute;
+    font-size: 1.3rem;
+    left: 21%;
+    top: 40%
+}
+.t{
+    width: 98%;
+}
+
+}
